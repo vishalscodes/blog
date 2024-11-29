@@ -16,7 +16,7 @@
  * beian {string} Chinese policy
  */
 export const site = {
-  title: 'Vishy's Blog', // required
+  title: "Vishy's Blog", // required
   favicon: '/favicon.svg', // required
   description: 'Welcome to my independent blog website! ',
   author: "Vishy", // required
