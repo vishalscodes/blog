@@ -3,6 +3,7 @@ backend:
   repo: vishalscodes/blog
   branch: main # Branch to update (optional; defaults to master)
 
+publish_mode: editorial_workflow
 media_folder: "src/content/images" # Location where files will be stored in the repo
 # public_folder: "src/content/images" # The src attribute for uploaded media
 
