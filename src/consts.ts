@@ -16,12 +16,12 @@
  * beian {string} Chinese policy
  */
 export const site = {
-  title: 'Astro Theme Yi', // required
+  title: 'Vishy's Blog', // required
   favicon: '/favicon.svg', // required
   description: 'Welcome to my independent blog website! ',
-  author: "Astro-Yi", // required
+  author: "Vishy", // required
   avatar: '/avatar.png', // required
-  url: 'https://xxxxxx.com', // required
+  url: 'https://vishysblog.netlify.app', // required
   motto: 'Actions speak louder than words.',
   recentBlogSize: 5,
   archivePageSize: 25,
@@ -113,7 +113,7 @@ export const categories = [
  * Personal link address
  */
 export const infoLinks = [
-  {
+ /* {
     icon: 'ri-telegram-fill',
     name: 'telegram',
     outlink: 'xxxxxxx',
@@ -127,16 +127,16 @@ export const infoLinks = [
     icon: 'ri-instagram-fill',
     name: 'instagram',
     outlink: 'xxxxxxx',
-  },
-  {
-    icon: 'ri-github-fill',
-    name: 'github',
-    outlink: 'xxxxxxx',
-  },
+  }, 
   {
     icon: 'ri-rss-fill',
     name: 'rss',
     outlink: 'xxxxxxx',
+  }, */
+  {
+    icon: 'ri-github-fill',
+    name: 'github',
+    outlink: 'https://github.com/vishalscodes',
   }
 ]
 
